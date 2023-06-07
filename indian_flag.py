@@ -9,7 +9,7 @@ def rectangle(color):
         t.forward(100)
         t.right(90)
     t.end_fill()
-        
+
 def circle():
     t.color("blue")
     t.circle(49)
